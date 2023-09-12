@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibash2052&show_icons=true&locale=en" alt="bibash2052" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibash2052&" alt="bibash2052" /></p>
