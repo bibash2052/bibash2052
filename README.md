@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibash2052" alt="bibash2052" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **bibash2052@gmail.com**
 
